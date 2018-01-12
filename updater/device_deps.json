@@ -370,7 +370,7 @@
         "android_device_htc_dlx",
         "android_device_htc_msm8960-common",
         "android_device_qcom_common",
-        "android_kernel_htc_m7"
+        "android_kernel_htc_dlx"
     ],
     "dogo": [
         "android_device_qcom_common",
